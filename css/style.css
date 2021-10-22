@@ -1,0 +1,19 @@
+/*HEADER start*/
+.header{
+	background-color: lightgray;
+}
+.logo{
+	margin-top: 64px;
+	margin-left: 132px;
+}
+
+.nav-ul{	
+	margin-top: 64px;
+	margin-left: 530px;
+}
+.nav-li{
+	margin-right: 60px;
+	font-size: 20px;
+
+}
+/*HEADER END*/
